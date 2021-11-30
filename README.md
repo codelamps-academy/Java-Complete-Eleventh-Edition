@@ -55,5 +55,23 @@ CONTOH ADA BEBERAPA KEYWORD JAVA:
 40. public : Public adalah access modifier yang bisa digunakan di Class, Sub Kelas, Package dan di luar Package
 41. requires :
 42. return : 
+43. short :
+44. static :
+45. strictfp :
+46. super :
+47. switch : 
+48. synchronized :
+49. this :
+50. throw :
+51. throws :
+52. to :
+53. transiet :
+54. transitive :
+55. try :
+56. uses :
+57. void :
+58. volatile :
+59. while :
+60. with :
 
 ```
