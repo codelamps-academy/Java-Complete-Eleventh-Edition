@@ -75,3 +75,11 @@ CONTOH ADA BEBERAPA KEYWORD JAVA:
 60. with :
 
 ```
+
+
+##  FLOATING POINT ##
+
+double = 64 bits = 4.9e-324 to 1.8e+308
+float = 32 bits = 1.4e-045 to 3.4e+038
+
+
