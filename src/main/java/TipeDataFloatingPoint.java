@@ -7,7 +7,7 @@ public class TipeDataFloatingPoint {
         pi = 3.1416; // NILAI PHI
         a = pi * r * r; // MENGHITUNG AREA LINGKARAN
 
-        System.out.println("Area of circle is " +a);
+        System.out.println("Area of circle is " +a) ;
 
     }
 }
