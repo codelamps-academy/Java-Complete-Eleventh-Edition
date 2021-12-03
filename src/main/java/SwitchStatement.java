@@ -54,5 +54,23 @@ public class SwitchStatement {
         }
 
         System.out.println("Season saat ini : " + season);
+
+
+        System.out.println("=================================================");
+
+        String str = "four";
+
+        switch (str){
+            case "one" -> System.out.println("Satu");
+            case "two" -> System.out.println("Dua");
+            case "three" -> System.out.println("Tiga");
+            case "four" -> System.out.println("Empat");
+            case "five" -> System.out.println("Lima");
+            case "six" -> System.out.println("Enam");
+            case "seven" -> System.out.println("Tujuh");
+            case "eight" -> System.out.println("Delapan");
+            case "nine" -> System.out.println("Sembilan");
+            case "tem" -> System.out.println("Sepuluh");
+        }
     }
 }
